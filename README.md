@@ -1,2 +1,3 @@
 # 3D-Rotating-Text
-A text that's been broken to smaller panels which every panel can be manipulated individually
+Shoutout to Kevin Powell and Amit Sheen for this vieo => 
+https://www.youtube.com/watch?v=NSWr6dkc_Xw
